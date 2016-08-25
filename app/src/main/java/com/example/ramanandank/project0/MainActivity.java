@@ -8,12 +8,12 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button mPopularMoviesApp;
-    Button mStockHawkApp;
-    Button mBuildItBiggerApp;
-    Button mMaterialApp;
-    Button mGoUbiquitousApp;
-    Button mCapstoneApp;
+    private Button mPopularMoviesApp;
+    private Button mStockHawkApp;
+    private Button mBuildItBiggerApp;
+    private Button mMaterialApp;
+    private Button mGoUbiquitousApp;
+    private Button mCapstoneApp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
